@@ -1,3 +1,30 @@
+# Video-Chat-App
+<!-- Title -->
+<h1 align="center"><b>TEAM CHAT</b></h1>
+
+
+## LINK
+* **https://phuong-hcy01.netlify.app/**
+
+## CHAT ENGINE
+* **https://chatengine.io/projects/292a738e-6944-448a-a05b-f80376345c9a**
+
+## SOURCE
+* **https://www.youtube.com/watch?v=jcOKU9f86XE**
+
+## NGƯỜI THỰC HIỆN
+Kim Phương
+
+## CÁC CÔNG NGHỆ SỬ DỤNG
+
+HTML, CSS, Javascript, ReactJS
+
+## ĐĂNG NHẬP
+
+Username: 'thanh'
+Password: 'thanhthanh'
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
